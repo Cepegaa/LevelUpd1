@@ -4,4 +4,4 @@ For Courses
 
 try1
 try2
-trysam1
+trysam 1
